@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Except bot.lua and init.txt
+!.gitignore
+!bot.lua
+!init.txt
